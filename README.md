@@ -24,12 +24,16 @@ To run this project on your machine,  you can use [Jupyter notebook](https://jup
 
 
 ## Analysis Overview
+We will go through 8 steps in this project:
+- **Step 1:** Generate general insights on the data
+- **Step 2:** Exploratory Data Analysis (EDA)
+- **Step 3:** Data Cleaning
+- **Step 4:** Feature Engineering
+- **Step 5:** Handling Categorical Data
+- **Step 6:** Data Normalization and Standardization
+- **Step 7:** Data Splitting into Training and Testing sets
+- **Step 8:** Model Training and evaluation
 
-The analysis covers the following aspects of the business:
-
-1. **Sales Performance**: Analyzing sales trends, revenue, and profit.
-2. **Customer Segmentation**: Understanding customer behavior and segmenting them.
-3. **Product Analysis**: Evaluating product performance, popular items, most sold categories.
 
 
 ## Insights and Visualizations
@@ -41,7 +45,7 @@ The analysis yielded several key insights and visualizations, including:
    ![image](https://github.com/KhaledMoheyD/Customer-Lifetime-Value-Prediction/assets/38184987/a099f293-ca7d-4235-84e7-8cd95bc3436e)
 
    
-2.  The Category with the highest sales is the "Office Supplies".
+2.  States with the lowest and hights number of customers.
   
    ![image](https://github.com/KhaledMoheyD/E-commerce-Sales-Dashboard-/assets/38184987/a435b11b-9c59-4b40-b851-b8b8bb3055d0)
 

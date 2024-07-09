@@ -3,8 +3,7 @@
 ## Project Description
 
  Predict the lifetime value of customers for a business based on their historical
- interactions by applying regression techniques to estimate the future value that a customer will bring
- to the business.
+ interactions using Regression Techniques
 
 ## Installation
 
@@ -16,6 +15,7 @@ To run this project on your machine,  you can use [Jupyter notebook](https://jup
 - Pandas
 - Python
 - Scikit-Learn
+- Regression
 
 ## Dataset
 
@@ -40,27 +40,44 @@ We will go through 8 steps in this project:
 
 The analysis yielded several key insights and visualizations, including:
 
-1.  The Data is not normally distributed.
+
+
+   
+1.  States with the lowest and hights number of customers.
+  
+   ![image](https://github.com/KhaledMoheyD/Customer-Lifetime-Value-Prediction/assets/38184987/62b8c2a3-bd53-45cf-a9d5-a5c501830612)
+
+
+2. Correlation Heatmap
+ 
+  ![image](https://github.com/KhaledMoheyD/Customer-Lifetime-Value-Prediction/assets/38184987/42224fac-75fc-43ec-b263-e326af0398e0)
+
+   
+3. Most of the customers order through Agents.
+   
+  ![image](https://github.com/KhaledMoheyD/Customer-Lifetime-Value-Prediction/assets/38184987/0615dc9e-e585-4816-9ef2-a016a5725773)
+
+4. Most of the customers are employed.
+
+   ![image](https://github.com/KhaledMoheyD/Customer-Lifetime-Value-Prediction/assets/38184987/1627f9b4-a5f2-41d7-abbf-f00858262f00)
+
+5.  The Data is not normally distributed.
  
    ![image](https://github.com/KhaledMoheyD/Customer-Lifetime-Value-Prediction/assets/38184987/a099f293-ca7d-4235-84e7-8cd95bc3436e)
+   ![image](https://github.com/KhaledMoheyD/Customer-Lifetime-Value-Prediction/assets/38184987/fb76a3fd-a6ba-4990-a9f5-61f5383bf047)
 
-   
-2.  States with the lowest and hights number of customers.
-  
-   ![image](https://github.com/KhaledMoheyD/E-commerce-Sales-Dashboard-/assets/38184987/a435b11b-9c59-4b40-b851-b8b8bb3055d0)
 
-3. Most of the customers choose Standard class shipping.
- 
-  ![image](https://github.com/KhaledMoheyD/E-commerce-Sales-Dashboard-/assets/38184987/0539f338-b8cb-4198-a286-697be0675989)
-   
-4. Almost half of the sales are performed by Consumers.
-   
-  ![image](https://github.com/KhaledMoheyD/E-commerce-Sales-Dashboard-/assets/38184987/d7eac19d-2cad-473c-a7c9-8a511608ea74)
+6. The distribution of the data after applying log Transformation.
+
+   ![image](https://github.com/KhaledMoheyD/Customer-Lifetime-Value-Prediction/assets/38184987/3f0d80e7-96af-45ec-b749-570b347f238a)
+   ![image](https://github.com/KhaledMoheyD/Customer-Lifetime-Value-Prediction/assets/38184987/3a1eea5c-8927-4650-904f-9fe56f878d52)
+
+
 
 
 ## Conclusion
 
-This project provides a comprehensive understanding of the e-commerce business and offers actionable insights to drive growth and efficiency.
+This project provides a comprehensive understanding of the business and offers actionable insights to drive growth and efficiency.
 
 ## Author
 
